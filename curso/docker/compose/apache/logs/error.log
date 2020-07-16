@@ -1,0 +1,12 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.20.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Jul 14 07:41:59.302089 2020] [mpm_event:notice] [pid 1:tid 140123252401280] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue Jul 14 07:41:59.307844 2020] [mpm_event:info] [pid 1:tid 140123252401280] AH00490: Server built: Jun  9 2020 07:00:39
+[Tue Jul 14 07:41:59.307860 2020] [core:notice] [pid 1:tid 140123252401280] AH00094: Command line: 'httpd -D FOREGROUND'
+[Tue Jul 14 07:42:42.334462 2020] [core:info] [pid 1:tid 140123252401280] AH00096: removed PID file /usr/local/apache2/logs/httpd.pid (pid=1)
+[Tue Jul 14 07:42:42.334496 2020] [mpm_event:notice] [pid 1:tid 140123252401280] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Jul 14 07:42:56.978174 2020] [mpm_event:notice] [pid 1:tid 139942374315136] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue Jul 14 07:42:56.978347 2020] [mpm_event:info] [pid 1:tid 139942374315136] AH00490: Server built: Jun  9 2020 07:00:39
+[Tue Jul 14 07:42:56.978362 2020] [core:notice] [pid 1:tid 139942374315136] AH00094: Command line: 'httpd -D FOREGROUND'
+[Tue Jul 14 13:41:02.224137 2020] [core:info] [pid 1:tid 139942374315136] AH00096: removed PID file /usr/local/apache2/logs/httpd.pid (pid=1)
+[Tue Jul 14 13:41:02.224179 2020] [mpm_event:notice] [pid 1:tid 139942374315136] AH00492: caught SIGWINCH, shutting down gracefully
